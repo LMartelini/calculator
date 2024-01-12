@@ -14,7 +14,7 @@
 <h2> 
 	Demonstração do projeto
 </h2>
-<img src="Imagens/calculator-gif" alt="Demonstração do projeto">
+<img src="Imagens/calculator-gif.gif" alt="Demonstração do projeto">
 
 <h2> 
 	 🛠 Tecnologias
